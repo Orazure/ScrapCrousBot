@@ -17,7 +17,3 @@ This program made it possible to receive the weekly menu via the restaurant's we
 
 
 - [Telegram](https://core.telegram.org/bots/api) bot to receive menus that are stored in JSON (sent from the spiders)
-<<<<<<< HEAD
-=======
-
->>>>>>> b07671c1a3da04c6018c4cd8140ae5df8073bc4c

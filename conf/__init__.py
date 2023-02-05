@@ -1,0 +1,2 @@
+# add TOKEN FROM BOTFATHER
+api="TOKEN"
